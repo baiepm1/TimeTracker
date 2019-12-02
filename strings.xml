@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">TimeTracker</string>
+    <string name="TimerNum">c.dopemz.TimeTracker.num</string>
+    <string name="year0">c.dopemz.TimeTracker.year0</string>
+    <string name="day0">c.dopemz.TimeTracker.day0</string>
+    <string name="hour0">c.dopemz.TimeTracker.hour0</string>
+    <string name="min0">c.dopemz.TimeTracker.min0</string>
+    <string name="sec0">c.dopemz.TimeTracker.sec0</string>
+    <string name="run0">c.dopemz.TimeTracker.run0</string>
+    <string name="text0">c.dopemz.TimeTracker.text0</string>
+
+    <string name="year1">c.dopemz.TimeTracker.year1</string>
+    <string name="day1">c.dopemz.TimeTracker.day1</string>
+    <string name="hour1">c.dopemz.TimeTracker.hour1</string>
+    <string name="min1">c.dopemz.TimeTracker.min1</string>
+    <string name="sec1">c.dopemz.TimeTracker.sec1</string>
+    <string name="run1">c.dopemz.TimeTracker.run1</string>
+    <string name="text1">c.dopemz.TimeTracker.text1</string>
+
+    <string name="year2">c.dopemz.TimeTracker.year2</string>
+    <string name="day2">c.dopemz.TimeTracker.day2</string>
+    <string name="hour2">c.dopemz.TimeTracker.hour2</string>
+    <string name="min2">c.dopemz.TimeTracker.min2</string>
+    <string name="sec2">c.dopemz.TimeTracker.sec2</string>
+    <string name="run2">c.dopemz.TimeTracker.run2</string>
+    <string name="text2">c.dopemz.TimeTracker.text2</string>
+
+    <string name="year3">c.dopemz.TimeTracker.year3</string>
+    <string name="day3">c.dopemz.TimeTracker.day3</string>
+    <string name="hour3">c.dopemz.TimeTracker.hour3</string>
+    <string name="min3">c.dopemz.TimeTracker.min3</string>
+    <string name="sec3">c.dopemz.TimeTracker.sec3</string>
+    <string name="run3">c.dopemz.TimeTracker.run3</string>
+    <string name="text3">c.dopemz.TimeTracker.text3</string>
+
+    <string name="year4">c.dopemz.TimeTracker.year4</string>
+    <string name="day4">c.dopemz.TimeTracker.day4</string>
+    <string name="hour4">c.dopemz.TimeTracker.hour4</string>
+    <string name="min4">c.dopemz.TimeTracker.min4</string>
+    <string name="sec4">c.dopemz.TimeTracker.sec4</string>
+    <string name="run4">c.dopemz.TimeTracker.run4</string>
+    <string name="text4">c.dopemz.TimeTracker.text4</string>
+
+    <string name="year5">c.dopemz.TimeTracker.year5</string>
+    <string name="day5">c.dopemz.TimeTracker.day5</string>
+    <string name="hour5">c.dopemz.TimeTracker.hour5</string>
+    <string name="min5">c.dopemz.TimeTracker.min5</string>
+    <string name="sec5">c.dopemz.TimeTracker.sec5</string>
+    <string name="run5">c.dopemz.TimeTracker.run5</string>
+    <string name="text5">c.dopemz.TimeTracker.text5</string>
+
+    <string name="year6">c.dopemz.TimeTracker.year6</string>
+    <string name="day6">c.dopemz.TimeTracker.day6</string>
+    <string name="hour6">c.dopemz.TimeTracker.hour6</string>
+    <string name="min6">c.dopemz.TimeTracker.min6</string>
+    <string name="sec6">c.dopemz.TimeTracker.sec6</string>
+    <string name="run6">c.dopemz.TimeTracker.run6</string>
+    <string name="text6">c.dopemz.TimeTracker.text6</string>
+
+    <string name="year7">c.dopemz.TimeTracker.year7</string>
+    <string name="day7">c.dopemz.TimeTracker.day7</string>
+    <string name="hour7">c.dopemz.TimeTracker.hour7</string>
+    <string name="min7">c.dopemz.TimeTracker.min7</string>
+    <string name="sec7">c.dopemz.TimeTracker.sec7</string>
+    <string name="run7">c.dopemz.TimeTracker.run7</string>
+    <string name="text7">c.dopemz.TimeTracker.text7</string>
+
+    <string name="year8">c.dopemz.TimeTracker.year8</string>
+    <string name="day8">c.dopemz.TimeTracker.day8</string>
+    <string name="hour8">c.dopemz.TimeTracker.hour8</string>
+    <string name="min8">c.dopemz.TimeTracker.min8</string>
+    <string name="sec8">c.dopemz.TimeTracker.sec8</string>
+    <string name="run8">c.dopemz.TimeTracker.run8</string>
+    <string name="text8">c.dopemz.TimeTracker.text8</string>
+
+    <string name="year9">c.dopemz.TimeTracker.year9</string>
+    <string name="day9">c.dopemz.TimeTracker.day9</string>
+    <string name="hour9">c.dopemz.TimeTracker.hour9</string>
+    <string name="min9">c.dopemz.TimeTracker.min9</string>
+    <string name="sec9">c.dopemz.TimeTracker.sec9</string>
+    <string name="run9">c.dopemz.TimeTracker.run9</string>
+    <string name="text9">c.dopemz.TimeTracker.text9</string>
+
+    <string name="year10">c.dopemz.TimeTracker.year10</string>
+    <string name="day10">c.dopemz.TimeTracker.day10</string>
+    <string name="hour10">c.dopemz.TimeTracker.hour10</string>
+    <string name="min10">c.dopemz.TimeTracker.min10</string>
+    <string name="sec10">c.dopemz.TimeTracker.sec10</string>
+    <string name="run10">c.dopemz.TimeTracker.run10</string>
+    <string name="text10">c.dopemz.TimeTracker.text10</string>
+
+    <string name="year11">c.dopemz.TimeTracker.year11</string>
+    <string name="day11">c.dopemz.TimeTracker.day11</string>
+    <string name="hour11">c.dopemz.TimeTracker.hour11</string>
+    <string name="min11">c.dopemz.TimeTracker.min11</string>
+    <string name="sec11">c.dopemz.TimeTracker.sec11</string>
+    <string name="run11">c.dopemz.TimeTracker.run11</string>
+    <string name="text11">c.dopemz.TimeTracker.text11</string>
+
+    <string name="year12">c.dopemz.TimeTracker.year12</string>
+    <string name="day12">c.dopemz.TimeTracker.day12</string>
+    <string name="hour12">c.dopemz.TimeTracker.hour12</string>
+    <string name="min12">c.dopemz.TimeTracker.min12</string>
+    <string name="sec12">c.dopemz.TimeTracker.sec12</string>
+    <string name="run12">c.dopemz.TimeTracker.run12</string>
+    <string name="text12">c.dopemz.TimeTracker.text12</string>
+
+    <string name="year13">c.dopemz.TimeTracker.year13</string>
+    <string name="day13">c.dopemz.TimeTracker.day13</string>
+    <string name="hour13">c.dopemz.TimeTracker.hour13</string>
+    <string name="min13">c.dopemz.TimeTracker.min13</string>
+    <string name="sec13">c.dopemz.TimeTracker.sec13</string>
+    <string name="run13">c.dopemz.TimeTracker.run13</string>
+    <string name="text13">c.dopemz.TimeTracker.text13</string>
+
+    <string name="year14">c.dopemz.TimeTracker.year14</string>
+    <string name="day14">c.dopemz.TimeTracker.day14</string>
+    <string name="hour14">c.dopemz.TimeTracker.hour14</string>
+    <string name="min14">c.dopemz.TimeTracker.min14</string>
+    <string name="sec14">c.dopemz.TimeTracker.sec14</string>
+    <string name="run14">c.dopemz.TimeTracker.run14</string>
+    <string name="text14">c.dopemz.TimeTracker.text14</string>
+
+    <string name="year15">c.dopemz.TimeTracker.year15</string>
+    <string name="day15">c.dopemz.TimeTracker.day15</string>
+    <string name="hour15">c.dopemz.TimeTracker.hour15</string>
+    <string name="min15">c.dopemz.TimeTracker.min15</string>
+    <string name="sec15">c.dopemz.TimeTracker.sec15</string>
+    <string name="run15">c.dopemz.TimeTracker.run15</string>
+    <string name="text15">c.dopemz.TimeTracker.text15</string>
+
+    <string name="year16">c.dopemz.TimeTracker.year16</string>
+    <string name="day16">c.dopemz.TimeTracker.day16</string>
+    <string name="hour16">c.dopemz.TimeTracker.hour16</string>
+    <string name="min16">c.dopemz.TimeTracker.min16</string>
+    <string name="sec16">c.dopemz.TimeTracker.sec16</string>
+    <string name="run16">c.dopemz.TimeTracker.run16</string>
+    <string name="text16">c.dopemz.TimeTracker.text16</string>
+
+    <string name="year17">c.dopemz.TimeTracker.year17</string>
+    <string name="day17">c.dopemz.TimeTracker.day17</string>
+    <string name="hour17">c.dopemz.TimeTracker.hour17</string>
+    <string name="min17">c.dopemz.TimeTracker.min17</string>
+    <string name="sec17">c.dopemz.TimeTracker.sec17</string>
+    <string name="run17">c.dopemz.TimeTracker.run17</string>
+    <string name="text17">c.dopemz.TimeTracker.text17</string>
+
+    <string name="year18">c.dopemz.TimeTracker.year18</string>
+    <string name="day18">c.dopemz.TimeTracker.day18</string>
+    <string name="hour18">c.dopemz.TimeTracker.hour18</string>
+    <string name="min18">c.dopemz.TimeTracker.min18</string>
+    <string name="sec18">c.dopemz.TimeTracker.sec18</string>
+    <string name="run18">c.dopemz.TimeTracker.run18</string>
+    <string name="text18">c.dopemz.TimeTracker.text18</string>
+
+    <string name="year19">c.dopemz.TimeTracker.year19</string>
+    <string name="day19">c.dopemz.TimeTracker.day19</string>
+    <string name="hour19">c.dopemz.TimeTracker.hour19</string>
+    <string name="min19">c.dopemz.TimeTracker.min19</string>
+    <string name="sec19">c.dopemz.TimeTracker.sec19</string>
+    <string name="run19">c.dopemz.TimeTracker.run19</string>
+    <string name="text19">c.dopemz.TimeTracker.text19</string>
+
+    <string name="year20">c.dopemz.TimeTracker.year20</string>
+    <string name="day20">c.dopemz.TimeTracker.day20</string>
+    <string name="hour20">c.dopemz.TimeTracker.hour20</string>
+    <string name="min20">c.dopemz.TimeTracker.min20</string>
+    <string name="sec20">c.dopemz.TimeTracker.sec20</string>
+    <string name="run20">c.dopemz.TimeTracker.run20</string>
+    <string name="text20">c.dopemz.TimeTracker.text20</string>
+
+    <string name="year21">c.dopemz.TimeTracker.year21</string>
+    <string name="day21">c.dopemz.TimeTracker.day21</string>
+    <string name="hour21">c.dopemz.TimeTracker.hour21</string>
+    <string name="min21">c.dopemz.TimeTracker.min21</string>
+    <string name="sec21">c.dopemz.TimeTracker.sec21</string>
+    <string name="run21">c.dopemz.TimeTracker.run21</string>
+    <string name="text21">c.dopemz.TimeTracker.text21</string>
+
+</resources>
